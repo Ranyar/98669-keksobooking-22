@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Андрей Кузнецов](https://up.htmlacademy.ru/javascript/22/user/98669).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Бабченко](https://htmlacademy.ru/profile/babtshe).
 
 ---
 
